@@ -1,4 +1,4 @@
-
+#test change for git
 # Intel compiler options
 ifneq ($(CUSTOM),yes)
 FC = ifort
